@@ -1,6 +1,6 @@
 ## Hi, I'm Graciela Rozza
 
-### 🌍 Environmental Engineer, M.Sc.  
+### 🌍 Environmental Engineer, MSc
 ### 📊 Data Science Student
 
 ##
