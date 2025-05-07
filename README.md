@@ -1,14 +1,14 @@
 # Oi! Me chamo Graciela Rozza  
 
-Sou **Analista de Dados**, com graduação e mestrado em Engenharia Ambiental, e em transição de carreira para a área de dados. Trabalho com **Python, SQL, Excel e Power BI**, aplicando **análise exploratória**, **visualização de dados** e **comunicação de insights** em projetos reais e pessoais.
+Sou **Analista de Dados**, com graduação e mestrado em Engenharia Ambiental, em transição de carreira para a área de dados. Trabalho com **Python, SQL, Excel e Power BI**, aplicando **análise exploratória**, **visualização de dados** e **comunicação de insights** em projetos reais e pessoais.
 
-Apaixonada por aprender, busco unir minha bagagem técnica à curiosidade por resolver problemas com dados - sempre com organização e olhar analítico.
+Apaixonada por aprender, busco unir minha bagagem técnica à curiosidade por resolver problemas com dados — sempre com organização e olhar analítico.
 
-Nas horas vagas, gosto de fazer peças em cerâmica, pintar com aquarela, me divertir com jogos de tabuleiros com meus amigos, e estar com meus cachorros <3
+Nas horas vagas, gosto de fazer peças em cerâmica, pintar com aquarela, me divertir com jogos de tabuleiro com meus amigos e estar com meus cachorros 🐶
 
-Vamos trocar uma ideia? Me encontre no [LinkedIn](https://www.linkedin.com/in/gracielarozza/) ou confira meus projetos aqui no GitHub.  
+Vamos trocar uma ideia? Me encontre no [LinkedIn](https://www.linkedin.com/in/gracielarozza/) e confira meus projetos aqui no GitHub.  
 
-## Competências  
+## 🛠 Competências  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
